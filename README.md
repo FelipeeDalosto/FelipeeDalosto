@@ -1,4 +1,7 @@
-<h1 aling="center">I'm Felipe Dalosto</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/c4FSokKY1k4aaTWclQ/giphy.gif" width="70">
+  I'm Felipe Dalosto welcome to my git
+  <img src="https://media.giphy.com/media/c4FSokKY1k4aaTWclQ/giphy.gif" width="70"></h1>
 
 **FelipeeDalosto/FelipeeDalosto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
