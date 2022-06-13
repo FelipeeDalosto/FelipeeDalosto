@@ -1,7 +1,7 @@
 <h1 align="center" width="100%">
-  <img src="https://media.giphy.com/media/c4FSokKY1k4aaTWclQ/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/c4FSokKY1k4aaTWclQ/giphy.gif" width="90">
   I'm Felipe Dalosto welcome to my git
-  <img src="https://www.tibiawiki.com.br/images/f/fa/Knight_Home.gif" width="70"></h1>
+  <img src="https://www.tibiawiki.com.br/images/f/fa/Knight_Home.gif" width="100"></h1>
 <table border="0" width=100%">
   <tr>
     <td><img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FelipeeDalosto&show_icons=true">
