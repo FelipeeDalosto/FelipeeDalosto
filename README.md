@@ -28,6 +28,6 @@
  	<a href="https://www.twitch.tv/dalosto5" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Felpee#7183" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-![ Animação de cobra ](https://github.com/Emillycristina/EmillyCristina/blob/output/github-contribution-grid-snake.svg)  
+![ Animação de cobra ](https://github.com/FelipeeDalosto/FelipeeDalosto/blob/output/github-contribution-grid-snake.svg)  
                                                                                                                            
 
