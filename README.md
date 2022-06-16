@@ -19,8 +19,15 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+-->  
+<div>
+  <h1>Portugues</h1>
+</div>
 
- -->   
+
+
+
+
 
 <img src="https://oldschool.runescape.wiki/images/Armadyl_godsword.png?e56f0" width="30">
 <img src="https://oldschool.runescape.wiki/images/Bandos_godsword.png?22c06" width="30">                             
