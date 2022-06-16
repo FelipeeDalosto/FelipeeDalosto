@@ -21,7 +21,13 @@
 </div>
 
  -->   
- <img src="https://static.tibia.com/images/news/rainbowtorch1.gif">
+
+<img src="https://oldschool.runescape.wiki/images/Armadyl_godsword.png?e56f0" width="30">
+<img src="https://oldschool.runescape.wiki/images/Bandos_godsword.png?22c06" width="30">                             
+<img src="https://oldschool.runescape.wiki/images/Saradomin_godsword.png?11815" width="30">
+<img src="https://oldschool.runescape.wiki/images/Zamorak_godsword.png?faa5d" width="30">                                                                                                            
+                                                                                                                                        
+                                                                                                                                        
  
  
    <a href="https://www.linkedin.com/in/felipe-dalosto-5a3bbb209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
