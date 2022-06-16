@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/c4FSokKY1k4aaTWclQ/giphy.gif" width="90">
   I'm Felipe Dalosto welcome to my git
   <img src="https://www.tibiawiki.com.br/images/f/fa/Knight_Home.gif" width="100"></h1>
+  
 <table align="center" width="100%">
   <tr>
     <td><img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FelipeeDalosto&show_icons=true">
@@ -10,8 +11,29 @@
 </table>
 
 
+<!--
+<table align="left" width="500" height="200">
+  
+  <tr>
+    <tr>
+  <td>
+    <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">Portugues</a>
+  </td>
+  <td>
+  <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">English</a>
+  </td>
+  </tr>
+  
+  <tr>  
+    <td colspan="2">
+      <img aling="left" width="47%" src="https://raw.githubusercontent.com/FelipeeDalosto/FelipeeDalosto/main/texto.jpg">
+    </td>
+  </tr>  
+  
+</table>
 
 
+-->
 
 
 
@@ -77,7 +99,7 @@
      
 
 
-                                                                                                                                        
+<hr>                                                                                                                                      
  
  
    <a href="https://www.linkedin.com/in/felipe-dalosto-5a3bbb209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
