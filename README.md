@@ -8,7 +8,25 @@
     <img aling="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeDalosto&layout=compact"></td>
   </tr>  
 </table>
-                                                                                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--                                                                                                                            
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,7 +59,11 @@
   </tr>
 </table>
 
-
+1.teste
+1.teste
+1.teste
+1.teste
+1.teste
 
 
 
@@ -51,7 +73,10 @@
 <img src="https://oldschool.runescape.wiki/images/Bandos_godsword.png?22c06" width="30">                             
 <img src="https://oldschool.runescape.wiki/images/Saradomin_godsword.png?11815" width="30">
 <img src="https://oldschool.runescape.wiki/images/Zamorak_godsword.png?faa5d" width="30">                                                                                                            
-     -->                                                                                                                                   
+     -->           
+     
+
+
                                                                                                                                         
  
  
