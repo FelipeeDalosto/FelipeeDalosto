@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/c4FSokKY1k4aaTWclQ/giphy.gif" width="90">
   I'm Felipe Dalosto welcome to my git
   <img src="https://www.tibiawiki.com.br/images/f/fa/Knight_Home.gif" width="100"></h1>
-<table border="0" width=100%">
+<table align="center" width="100%">
   <tr>
     <td><img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FelipeeDalosto&show_icons=true">
     <img aling="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeDalosto&layout=compact"></td>
@@ -20,9 +20,27 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 -->  
-<div>
-  <h1>Portugues</h1>
-</div>
+<!--
+<table align="left" width="100%">
+  <tr>
+  <td>
+    <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">Portugues</a>
+  </td>
+  <td>
+  <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">English</a>
+  </td>
+  </tr>
+  <tr>  
+</table>
+</br></br>
+<table align="left" width="100%">
+  <tr>
+    <td>
+    <p>teste</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
@@ -33,7 +51,7 @@
 <img src="https://oldschool.runescape.wiki/images/Bandos_godsword.png?22c06" width="30">                             
 <img src="https://oldschool.runescape.wiki/images/Saradomin_godsword.png?11815" width="30">
 <img src="https://oldschool.runescape.wiki/images/Zamorak_godsword.png?faa5d" width="30">                                                                                                            
-                                                                                                                                        
+     -->                                                                                                                                   
                                                                                                                                         
  
  
