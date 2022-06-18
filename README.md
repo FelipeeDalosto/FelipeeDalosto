@@ -94,7 +94,8 @@
 <img src="https://oldschool.runescape.wiki/images/Armadyl_godsword.png?e56f0" width="30">
 <img src="https://oldschool.runescape.wiki/images/Bandos_godsword.png?22c06" width="30">                             
 <img src="https://oldschool.runescape.wiki/images/Saradomin_godsword.png?11815" width="30">
-<img src="https://oldschool.runescape.wiki/images/Zamorak_godsword.png?faa5d" width="30">                                                                                                            
+<img src="https://oldschool.runescape.wiki/images/Zamorak_godsword.png?faa5d" width="30">                                                                                  
+                          
      -->           
      
 
