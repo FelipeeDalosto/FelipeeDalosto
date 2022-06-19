@@ -11,97 +11,10 @@
 </table>
 
 
-<!--
-<table align="left" width="500" height="200">
-  
-  <tr>
-    <tr>
-  <td>
-    <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">Portugues</a>
-  </td>
-  <td>
-  <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">English</a>
-  </td>
-  </tr>
-  
-  <tr>  
-    <td colspan="2">
-      <img aling="left" width="47%" src="https://raw.githubusercontent.com/FelipeeDalosto/FelipeeDalosto/main/texto.jpg">
-    </td>
-  </tr>  
-  
-</table>
-
-
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--                                                                                                                            
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<hr>                                                                                                                                      
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
--->  
-<!--
-<table align="left" width="100%">
-  <tr>
-  <td>
-    <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">Portugues</a>
-  </td>
-  <td>
-  <a href="https://www.tibiawiki.com.br/wiki/Arquivo:Achievement.gif">English</a>
-  </td>
-  </tr>
-  <tr>  
-</table>
-</br></br>
-<table align="left" width="100%">
-  <tr>
-    <td>
-    <p>teste</p>
-    </td>
-  </tr>
-</table>
-
-1.teste
-1.teste
-1.teste
-1.teste
-1.teste
-
-
-
-
-
-<img src="https://oldschool.runescape.wiki/images/Armadyl_godsword.png?e56f0" width="30">
-<img src="https://oldschool.runescape.wiki/images/Bandos_godsword.png?22c06" width="30">                             
-<img src="https://oldschool.runescape.wiki/images/Saradomin_godsword.png?11815" width="30">
-<img src="https://oldschool.runescape.wiki/images/Zamorak_godsword.png?faa5d" width="30">                                                                                  
-                          
-     -->           
-     
-
-
-<hr>                                                                                                                                      
- 
+<hr>
  
    <a href="https://www.linkedin.com/in/felipe-dalosto-5a3bbb209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
      <a href = "mailto:felipegabriel9784@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
